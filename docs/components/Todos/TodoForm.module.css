@@ -1,0 +1,13 @@
+.todoForm {
+  padding-bottom: 20px;
+}
+
+.todoForm label {
+  margin-right: 10px;
+}
+
+.todoForm input {
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+}
